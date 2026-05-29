@@ -1,0 +1,10 @@
+{
+    "name": "YouTube Product Review Agent",
+    "description": "Processes YouTube reviews and provides RAG answers.",
+    "version": "1.0.0",
+    "capabilities": [
+        "video_chat",
+        "extract_product"
+    ],
+    "protocol": "A2A"
+}

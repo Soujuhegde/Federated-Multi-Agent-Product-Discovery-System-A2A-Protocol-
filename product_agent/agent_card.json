@@ -1,0 +1,11 @@
+{
+    "name": "Product Discovery Agent",
+    "description": "Provides product discovery and recommendation capabilities.",
+    "version": "1.0.0",
+    "capabilities": [
+        "search_product",
+        "get_recommendations"
+    ],
+    "protocol": "A2A",
+    "transport": "MCP"
+}
